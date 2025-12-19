@@ -28,7 +28,7 @@ Una aplicación web interactiva construida con React y TypeScript que desafía a
 
 ```bash
 git clone <URL-DEL-REPOSITORIO>
-cd poke-project
+cd UDEMY_01_PokeGame_Vite_React
 ```
 
 ### 2. Instalar dependencias
